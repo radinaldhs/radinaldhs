@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Senior Software Engineer & Team Lead with 7+ years experience<br>🌍 Thrive in remote collaboration across global teams<br>🛠️ Full-stack: Svelte, React, Go, Python, Flutter/React Native<br>🚀 Love building scalable apps that actually work (and last)<br>🤝 Passion for mentoring, teamwork, and clean solutions<br>🤖 Exploring AI integrations to make products smarter<br>☕ Fueled by coffee, driven by curiosity
+👨‍💻 Senior Software Engineer & Team Lead with 9+ years experience<br>🌍 Thrive in remote collaboration across global teams<br>🛠️ Full-stack: Svelte, React, Go, Python, Flutter/React Native<br>🚀 Love building scalable apps that actually work (and last)<br>🤝 Passion for mentoring, teamwork, and clean solutions<br>🤖 Exploring AI integrations to make products smarter<br>☕ Fueled by coffee, driven by curiosity
 
 
 ## 🌐 Socials:
